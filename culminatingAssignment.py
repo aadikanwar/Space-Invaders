@@ -35,7 +35,7 @@ WHITE = (225, 225, 225)
 BLACK = (0, 0, 0)
 
 # creating the setting
-setting = pygame.image.load("unnamed.png")
+setting = pygame.image.load("backgroundIMG.png")
 settingRE = pygame.transform.scale(setting, (800, 600))
 
 # background music
